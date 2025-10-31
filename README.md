@@ -33,5 +33,8 @@ sudo nano index.html
 ##### Then opened it in my browser using:
 http://44.201.140.239/
 
+###### YT link
+https://youtu.be/gDq7VwFIK6Y
+
 
 
