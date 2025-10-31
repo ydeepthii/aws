@@ -31,9 +31,10 @@ cd /var/www/html
 sudo nano index.html
 
 ##### Then opened it in my browser using:
-http://13.218.237.180/ 
+http://44.201.140.239/
 
-###### added live site link
-Visit the website here: [https://ydeepthii.github.io/aws/]
+####### yt link
+https://youtu.be/gDq7VwFIK6Y
+
 
 
